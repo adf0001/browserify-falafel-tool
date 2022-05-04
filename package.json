@@ -1,0 +1,35 @@
+{
+  "name": "browserify-falafel-tool",
+  "version": "0.1.1",
+  "description": "browserify transform tool by sharing falafel",
+  "main": "browserify-falafel-tool.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "browserify",
+    "transform",
+    "falafel"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "dependencies": {
+    "browserify-transform-tools": "^1.7.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "export-to-module-exports": "^0.1.4",
+    "static-import-to-require": "^0.1.6"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/browserify-falafel-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/browserify-falafel-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/browserify-falafel-tool#readme"
+}
